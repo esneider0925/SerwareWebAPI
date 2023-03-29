@@ -1,0 +1,14 @@
+C:\Users\esneider.garcia\Source\Repos\SerwareWebApi\SerwareWebApi\bin\Debug\netcoreapp2.2\SerwareWebApi.deps.json
+C:\Users\esneider.garcia\Source\Repos\SerwareWebApi\SerwareWebApi\bin\Debug\netcoreapp2.2\SerwareWebApi.runtimeconfig.json
+C:\Users\esneider.garcia\Source\Repos\SerwareWebApi\SerwareWebApi\bin\Debug\netcoreapp2.2\SerwareWebApi.runtimeconfig.dev.json
+C:\Users\esneider.garcia\Source\Repos\SerwareWebApi\SerwareWebApi\bin\Debug\netcoreapp2.2\SerwareWebApi.dll
+C:\Users\esneider.garcia\Source\Repos\SerwareWebApi\SerwareWebApi\obj\Debug\netcoreapp2.2\SerwareWebApi.csprojAssemblyReference.cache
+C:\Users\esneider.garcia\Source\Repos\SerwareWebApi\SerwareWebApi\obj\Debug\netcoreapp2.2\SerwareWebApi.csproj.CoreCompileInputs.cache
+C:\Users\esneider.garcia\Source\Repos\SerwareWebApi\SerwareWebApi\obj\Debug\netcoreapp2.2\SerwareWebApi.RazorAssemblyInfo.cache
+C:\Users\esneider.garcia\Source\Repos\SerwareWebApi\SerwareWebApi\obj\Debug\netcoreapp2.2\SerwareWebApi.RazorAssemblyInfo.cs
+C:\Users\esneider.garcia\Source\Repos\SerwareWebApi\SerwareWebApi\obj\Debug\netcoreapp2.2\SerwareWebApi.AssemblyInfoInputs.cache
+C:\Users\esneider.garcia\Source\Repos\SerwareWebApi\SerwareWebApi\obj\Debug\netcoreapp2.2\SerwareWebApi.AssemblyInfo.cs
+C:\Users\esneider.garcia\Source\Repos\SerwareWebApi\SerwareWebApi\obj\Debug\netcoreapp2.2\SerwareWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\esneider.garcia\Source\Repos\SerwareWebApi\SerwareWebApi\bin\Debug\netcoreapp2.2\SerwareWebApi.pdb
+C:\Users\esneider.garcia\Source\Repos\SerwareWebApi\SerwareWebApi\obj\Debug\netcoreapp2.2\SerwareWebApi.dll
+C:\Users\esneider.garcia\Source\Repos\SerwareWebApi\SerwareWebApi\obj\Debug\netcoreapp2.2\SerwareWebApi.pdb
