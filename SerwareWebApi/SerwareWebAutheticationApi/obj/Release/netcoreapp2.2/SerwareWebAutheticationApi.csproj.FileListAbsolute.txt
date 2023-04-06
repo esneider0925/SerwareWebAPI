@@ -1,0 +1,14 @@
+C:\Users\esneider.garcia\Source\Repos\SerwareWebAPI\SerwareWebApi\SerwareWebAutheticationApi\bin\Release\netcoreapp2.2\SerwareWebAutheticationApi.deps.json
+C:\Users\esneider.garcia\Source\Repos\SerwareWebAPI\SerwareWebApi\SerwareWebAutheticationApi\bin\Release\netcoreapp2.2\SerwareWebAutheticationApi.runtimeconfig.json
+C:\Users\esneider.garcia\Source\Repos\SerwareWebAPI\SerwareWebApi\SerwareWebAutheticationApi\bin\Release\netcoreapp2.2\SerwareWebAutheticationApi.runtimeconfig.dev.json
+C:\Users\esneider.garcia\Source\Repos\SerwareWebAPI\SerwareWebApi\SerwareWebAutheticationApi\bin\Release\netcoreapp2.2\SerwareWebAutheticationApi.dll
+C:\Users\esneider.garcia\Source\Repos\SerwareWebAPI\SerwareWebApi\SerwareWebAutheticationApi\bin\Release\netcoreapp2.2\SerwareWebAutheticationApi.pdb
+C:\Users\esneider.garcia\Source\Repos\SerwareWebAPI\SerwareWebApi\SerwareWebAutheticationApi\obj\Release\netcoreapp2.2\SerwareWebAutheticationApi.csproj.CoreCompileInputs.cache
+C:\Users\esneider.garcia\Source\Repos\SerwareWebAPI\SerwareWebApi\SerwareWebAutheticationApi\obj\Release\netcoreapp2.2\SerwareWebAutheticationApi.RazorAssemblyInfo.cache
+C:\Users\esneider.garcia\Source\Repos\SerwareWebAPI\SerwareWebApi\SerwareWebAutheticationApi\obj\Release\netcoreapp2.2\SerwareWebAutheticationApi.RazorAssemblyInfo.cs
+C:\Users\esneider.garcia\Source\Repos\SerwareWebAPI\SerwareWebApi\SerwareWebAutheticationApi\obj\Release\netcoreapp2.2\SerwareWebAutheticationApi.AssemblyInfoInputs.cache
+C:\Users\esneider.garcia\Source\Repos\SerwareWebAPI\SerwareWebApi\SerwareWebAutheticationApi\obj\Release\netcoreapp2.2\SerwareWebAutheticationApi.AssemblyInfo.cs
+C:\Users\esneider.garcia\Source\Repos\SerwareWebAPI\SerwareWebApi\SerwareWebAutheticationApi\obj\Release\netcoreapp2.2\SerwareWebAutheticationApi.RazorTargetAssemblyInfo.cache
+C:\Users\esneider.garcia\Source\Repos\SerwareWebAPI\SerwareWebApi\SerwareWebAutheticationApi\obj\Release\netcoreapp2.2\SerwareWebAutheticationApi.dll
+C:\Users\esneider.garcia\Source\Repos\SerwareWebAPI\SerwareWebApi\SerwareWebAutheticationApi\obj\Release\netcoreapp2.2\SerwareWebAutheticationApi.pdb
+C:\Users\esneider.garcia\Source\Repos\SerwareWebAPI\SerwareWebApi\SerwareWebAutheticationApi\obj\Release\netcoreapp2.2\SerwareWebAutheticationApi.csprojAssemblyReference.cache

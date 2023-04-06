@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\esneider.garcia\\Source\\Repos\\SerwareWebApi\\SerwareWebApi\\SerwareWebApi.csproj": {}
+    "C:\\Users\\esneider.garcia\\Source\\Repos\\SerwareWebAPI\\SerwareWebApi\\SerwareWebApi\\SerwareWebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\esneider.garcia\\Source\\Repos\\SerwareWebApi\\SerwareWebApi\\SerwareWebApi.csproj": {
+    "C:\\Users\\esneider.garcia\\Source\\Repos\\SerwareWebAPI\\SerwareWebApi\\SerwareWebApi\\SerwareWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esneider.garcia\\Source\\Repos\\SerwareWebApi\\SerwareWebApi\\SerwareWebApi.csproj",
+        "projectUniqueName": "C:\\Users\\esneider.garcia\\Source\\Repos\\SerwareWebAPI\\SerwareWebApi\\SerwareWebApi\\SerwareWebApi.csproj",
         "projectName": "SerwareWebApi",
-        "projectPath": "C:\\Users\\esneider.garcia\\Source\\Repos\\SerwareWebApi\\SerwareWebApi\\SerwareWebApi.csproj",
+        "projectPath": "C:\\Users\\esneider.garcia\\Source\\Repos\\SerwareWebAPI\\SerwareWebApi\\SerwareWebApi\\SerwareWebApi.csproj",
         "packagesPath": "C:\\Users\\esneider.garcia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esneider.garcia\\Source\\Repos\\SerwareWebApi\\SerwareWebApi\\obj\\",
+        "outputPath": "C:\\Users\\esneider.garcia\\Source\\Repos\\SerwareWebAPI\\SerwareWebApi\\SerwareWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",
@@ -59,6 +59,10 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
             },
             "WindowsAzure.Storage": {
               "target": "Package",

@@ -3,3 +3,8 @@
 ################################################################################
 
 *.lock
+*.ide
+*.ide-shm
+*.ide-wal
+/SerwareWebApi/SerwareWebAutheticationApi/obj/Debug/netcoreapp2.2
+/SerwareWebApi/SerwareWebAutheticationApi/bin/Debug/netcoreapp2.2
